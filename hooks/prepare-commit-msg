@@ -1,0 +1,4 @@
+#!/bin/sh
+echo -e "#[<JIRA NUMBER>] - <JIRA HEADING>\n\n#<JIRA URL>\n#<Detailed description>" > "$1"
+
+#echo "HELLO" > "$1"
